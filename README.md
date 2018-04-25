@@ -14,3 +14,8 @@
 * [Raspberry Pi + 3个USB摄像头 + Motion（简易监控设备配置记录1——介绍以及安装](http://blog.csdn.net/Paul_C_V/article/details/45012937)
 * [看我如何基于Python&Facepp打造智能监控系统](http://www.freebuf.com/geek/143186.html)  
 * [树莓派教程——HC-SR04 超声波测距模块](https://go.kieran.top/post/28/)
+
+* [Tensorflow+树莓派，自制“猜拳神器”](https://blog.csdn.net/lauyeed/article/details/79345685)
+* [TensorFlow车牌识别完整版（含车牌数据集）](https://blog.csdn.net/shadown1ght/article/details/78571187)
+* [基于树莓派和Tensowflow的物体识别-brain](http://blog.just4fun.site/raspberrypi-tensowflow-robot.html)
+* [从零开始：在树莓派上构建tensorflow——详细至极](https://blog.csdn.net/qq_38960810/article/details/78640171)
